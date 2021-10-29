@@ -1,6 +1,6 @@
 ### Oi 👋 meu nome é Keven
 
-Eu sou um desenvolvedor de front-end iniciante
+Eu sou um desenvolvedor front-end iniciante
 
 - 🔭 Atualmente, estou trabalhando em projetos pessoais
 - 🌱 Estou aprendendo CSS e HTML

@@ -1,21 +1,28 @@
-### Oi 👋 meu nome é Keven
+### Oi 🖖 Sou desenvolvedor back-end, foco em full-stack.
 
-- 🔭 Atualmente, estou trabalhando em projetos pessoais
-- 🌱 Estou aprendendo CSS e HTML
-- 👯‍♂️ Procuro colaborar em grandes projetos
-- 📫 Fale comigo em adanbzrraa@gmail.com
+- 🔭 Atualmente, estou trabalhando em projetos.
+- 🌱 Estou aprendendo java.
+- 📫 Fale comigo em adanbzrraa@gmail.com.
 
+<h2>🔖 GitHub Stats</h2>
 <div align="center">
-  <a href="https://github.com/AdanBezer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdanBezer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdanBezer&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" alt="Current Streak" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=adanbzrra&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="180em" alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adanbzrra&hide=&layout=compact&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<h2>Things I code with</h2>
+<div align="left">
+  <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/></a>
+  <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+</div>
+
+<h2>Other skills</h2>
+<div align="left">
+  <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/></a>
+  <a href="https://pt-br.reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a>
 </div>
 
   ##

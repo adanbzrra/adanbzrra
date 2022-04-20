@@ -1,4 +1,4 @@
-### Oi 🖖 Sou desenvolvedor back-end, foco em full-stack.
+### É um prazer em receber você no meu perfil 🖖
 
 - 🔭 Atualmente, estou trabalhando em projetos.
 - 🌱 Estou aprendendo java.

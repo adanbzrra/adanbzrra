@@ -1,8 +1,3 @@
-### É um prazer em receber você no meu perfil 🖖
-
-- 🔭 Atualmente, estou trabalhando em projetos.
-- 🌱 Estou aprendendo java.
-- 📫 Fale comigo em adanbzrraa@gmail.com.
 
 <h2>🔖 GitHub Stats</h2>
 <div align="center">
@@ -26,6 +21,7 @@
   <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
   <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"    width="40" height="40"/></a>
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/></a>
 </div>
 
   ##

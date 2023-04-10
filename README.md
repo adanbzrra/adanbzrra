@@ -1,10 +1,3 @@
-
-<h2>🔖 GitHub Stats</h2>
-<div align="center">
-  <img height="180em" alt="Current Streak" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=adanbzrra&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-  <img height="180em" alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adanbzrra&hide=&layout=compact&theme=tokyonight"/>
-</div>
-
 <h2>Things I code with</h2>
 <div align="left">
   <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
@@ -13,7 +6,6 @@
   <a href="https://nodejs.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
   <a href="https://bootstrap-vue.org/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/></a>
 </div>
-
 <h2>Other skills</h2>
 <div align="left">
   <a href="https://pt.wikipedia.org/wiki/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a>
@@ -24,9 +16,3 @@
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/></a>
 </div>
 
-  ##
- 
-<div> 
-  <a href = "mailto:adanbzrraa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/keven-adan-bezerra-7a0808210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
